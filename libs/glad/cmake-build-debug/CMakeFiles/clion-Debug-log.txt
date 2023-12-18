@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -S /Users/gabe/CLionProjects/minecraft/libs/glad -B /Users/gabe/CLionProjects/minecraft/libs/glad/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/gabe/CLionProjects/minecraft/libs/glad/cmake-build-debug

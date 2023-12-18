@@ -1,0 +1,6 @@
+#ifndef MINECRAFT_HEADERS_IO_FILE_LOADER_H
+#define MINECRAFT_HEADERS_IO_FILE_LOADER_H
+
+char* load_file(char* path);
+
+#endif //MINECRAFT_HEADERS_IO_FILE_LOADER_H
